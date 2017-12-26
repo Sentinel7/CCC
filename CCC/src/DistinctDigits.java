@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class DistinctDigits {
 	
+	/// 2013, Junior #3 ///
+	
 	public static boolean isDistinct(int Y) {
 		
 		String temp = Integer.toString(Y);  

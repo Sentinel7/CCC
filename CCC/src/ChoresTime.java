@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ChoresTime {
+	
+	/// 2013, Junior #4 ///
 
 	public static void main(String[] args) {
 		

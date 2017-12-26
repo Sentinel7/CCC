@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class GridCity {
+	
+	/// 2017, Junior #3 ///
 
 	public static boolean isPossible(int startX, int startY, int endX, int endY, int charge) {
 		

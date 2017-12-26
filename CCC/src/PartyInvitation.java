@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class PartyInvitation {
 	
+	/// 2014, Junior #1 ///
+	
 	public static void remove() {
 		
 		Scanner console = new Scanner(System.in);

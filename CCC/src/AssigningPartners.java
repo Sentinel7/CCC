@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class AssigningPartners {
 	
+	/// 2014, Junior #5 ///
+	
 	public static boolean checkOne(String[] A1, String[] A2) {
 		
 		if (A1.length != A2.length) {

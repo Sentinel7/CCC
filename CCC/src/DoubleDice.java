@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class DoubleDice {
+	
+	/// 2014, Junior #3 ///
 
 	public static void main(String[] args) {
 		

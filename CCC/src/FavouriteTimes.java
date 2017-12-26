@@ -2,6 +2,8 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class FavouriteTimes {
+	
+	/// 2017, Junior #4 ///
 
 	public static String[] timeArr(int mins) throws Exception {
 		
