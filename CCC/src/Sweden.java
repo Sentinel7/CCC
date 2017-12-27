@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class Sweden {
+	
+	/// 2015, Junior #3 ///
 
 	public static void main(String[] a)
 	{
