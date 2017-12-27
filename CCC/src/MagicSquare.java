@@ -2,11 +2,13 @@ import java.util.*;
 
 public class MagicSquare {
 	
+	/// 2016, Junior #2 ///
+	
 	public static void main(String[] a) 
     {
-    	int[][] square = new int[4][4];
-
 		Scanner console = new Scanner(System.in);
+		
+    	int[][] square = new int[4][4];
 		
 		for(int row=0; row<4; row++) 
 		{
@@ -15,17 +17,7 @@ public class MagicSquare {
 				square[row][col] = console.nextInt();
 			}
 		}
-		 
-		/*
-		//Print out the array for debugging
-		for(int row=0; row<4; row++) 
-		{
-			for(int col=0; col<4; col++)
-			{
-				System.out.print(square[row][col] + " ");
-			}
-			System.out.println();
-		}*/
+		
 		
 		//Logic
     	boolean isMagicSquare = true;

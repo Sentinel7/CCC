@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class HappyOrSad {
+	
+	/// 2015, Junior #2 ///
 
 	public static void main(String[] a)
 	{
