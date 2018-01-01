@@ -2,6 +2,8 @@
 
 This repository contains all of the programs I have written from the Canadian Computing Competition problems. Every year there is a new contest where high school students can participate in the competition, created by the University of Waterloo. I have completed some of the past years contests in Java and put the solutions into this repo. The following website contains all of the past contests: http://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc
 
+## [Programs:](/CCC/src/)
+
 ### 2017
 * Junior #3 - GridCity.java
 * Junior #4 - FavouriteTimes.java
